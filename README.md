@@ -11,3 +11,4 @@ of strings to process.
 * To run: `python challenge1.py`. The results for each line will be printed to STDOUT.
 * To run unit tests: `python challenge1_tests.py`
 
+If you prefer to [see the run results on GitHub actions, you can](https://github.com/stwalkerster/and-coding-challenges/actions/workflows/challenge1.yml)!
